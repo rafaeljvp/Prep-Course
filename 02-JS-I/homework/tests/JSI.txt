@@ -1,0 +1,7 @@
+1.-En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Variables:"Es la forma de guardar un valor de algo que resultara util luego." 
+-Strings:"Es representada por texto"
+-Funciones (argumentos, return):"Son objetos que retornan o son invocados en funcion de otros argumentos"
+-Declaraciones if:"Son condicionales su retorno dependen de condiciones."
+-Valores booleanos (true, false):"Es un concepto que significa que tienes como resultado 2 opciones: Verdadero o falso; activar o desactivar. "
